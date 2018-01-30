@@ -1,6 +1,8 @@
 class Helloworld{
 public static void main(String args[])
 {
-System.out.println("Hello world from copy1 branch");
+
+System.out.println("Hello world from master branch");
+
 }
 }
